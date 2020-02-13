@@ -1,0 +1,18 @@
+.button {
+	width: auto;
+	line-height: 1.5;
+	border-radius: 20px;
+	background: red;
+	border: 2px solid black;
+	display: inline-block;
+	text-align: center;
+	padding: 5px 30px;
+	position: relative;
+	top: 250px;
+	left: 500px;
+}
+#svg-path-screen-wrapper {
+	position: absolute;
+	top: 0;
+	left: 0;
+}

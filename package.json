@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Flood screen from DOM element using SVG",
   "dependencies": {
+    "jquery": "^3.4.1",
     "kute.js": "^1.6.6"
   },
   "devDependencies": {},
